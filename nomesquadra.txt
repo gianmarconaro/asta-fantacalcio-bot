@@ -1,0 +1,22 @@
+Squadre utilizzabili:
+
+/atalanta
+/benevento
+/bologna
+/cagliari
+/crotone
+/fiorentina
+/genoa
+/inter
+/juventus
+/lazio
+/milan
+/lazio
+/parma
+/roma
+/sampdoria
+/sassuolo
+/spezia
+/torino
+/udinese
+/verona

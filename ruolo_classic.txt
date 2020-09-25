@@ -1,0 +1,6 @@
+Ruoli utilizzabili:
+
+/portiere
+/difensore
+/centrocampista
+/attaccante

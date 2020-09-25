@@ -1,0 +1,13 @@
+SQUADRE
+/nomesquadra per sapere gli ultimi movimenti di mercato.
+
+ASTA
+Scegli la tua modalita' d'asta fra /classic e /mantra (Default: Mantra)
+Se switchi da una modalita' all'altra tutti i salvataggi andranno persi!
+
+/ruolo per sorteggiare un giocatore casuale di quel ruolo
+/progress per visualizzare il progresso nei vari ruoli
+/refresh per resettare tutti i progressi
+
+POST-ASTA
+/dog o /cat per affogare i tuoi dispiaceri post-asta
