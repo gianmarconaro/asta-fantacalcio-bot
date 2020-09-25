@@ -237,7 +237,7 @@ def get_player_info_function(selected_player):
         article = re.sub('(MEDIA VOTO)', r' - \1\n', article)
         article = re.sub('(MEDIA FANTAVOTO\\s)', r' - \1\n', article)
         article = re.sub('(STATUS\\s)', r' - \1\n', article)
-        article = re.sub('\\dª giornataBONUS/MALUS \\dSOMMA BONUS MALUS \\dª giornata', '', article)
+        article = re.sub('\\d+ª giornataBONUS/MALUS \\d+,\\dSOMMA BONUS MALUS \\d+ª giornata', ' ', article)
 
         chat_id = update.message.chat_id
         bot.send_message(chat_id=chat_id, text=article)
